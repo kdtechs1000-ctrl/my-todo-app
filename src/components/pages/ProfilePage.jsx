@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { useOutletContext } from 'react-router-dom'
-import defaultAvatar from '../assets/b.webp' // 1. Imported your local asset image
+import defaultAvatar from '@/assets/b.webp'
 import { 
   User, 
   Mail, 
