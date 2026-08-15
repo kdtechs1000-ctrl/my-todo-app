@@ -1,16 +1,81 @@
-# React + Vite
+# 📝 Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Todo Application** built with React and Vite. The project provides a clean interface for creating, managing, and organizing daily tasks.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* ➕ Add new tasks
+* ✏️ Edit tasks
+* 🗑️ Delete tasks
+* ✅ Mark tasks as completed
+* 🔍 Filter and manage todos
+* 📱 Fully responsive design
+* 🎨 Modern UI components
+* ⚡ Fast development with Vite
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React** — UI development
+* **Vite** — Development and build tool
+* **Tailwind CSS** — Styling
+* **shadcn/ui** — Reusable UI components
+* **React Router** — Client-side routing
+* **JavaScript** — Application logic
+* **ESLint** — Code quality
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+### 2. Open the project
+
+```bash
+cd todo-react
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal, usually:
+
+```text
+http://localhost:5173
+```
+
+## 📸 Screenshot
+
+![Todo App Screenshot](./screenshots/todo-app.png)
+```<img width="1319" height="863" alt="image" src="https://github.com/user-attachments/assets/f7e3ebe4-0980-4598-96aa-ea96d020b58d" />
+
+
+## 🔮 Future Improvements
+
+* 💾 Local storage/database support
+* 🌙 Dark mode
+* 📅 Due dates and reminders
+* 🏷️ Categories and priorities
+* 🔐 User authentication
+* ☁️ Cloud synchronization
+
+## 👨‍💻 Author
+
+**Kritan Dawadi**
+
+GitHub: [kdtechs1000-ctrl](https://github.com/kdtechs1000-ctrl)
+
+
