@@ -57,12 +57,6 @@ Open the local URL shown in your terminal, usually:
 http://localhost:5173
 ```
 
-## 📸 Screenshot
-
-![Todo App Screenshot](./screenshots/todo-app.png)
-```<img width="1319" height="863" alt="image" src="https://github.com/user-attachments/assets/f7e3ebe4-0980-4598-96aa-ea96d020b58d" />
-
-
 ## 🔮 Future Improvements
 
 * 💾 Local storage/database support
